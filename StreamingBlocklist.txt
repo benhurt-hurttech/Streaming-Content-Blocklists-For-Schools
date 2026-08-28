@@ -55,6 +55,10 @@
 0.0.0.0 showtime.com
 0.0.0.0 paramountnetwork.com
 
+0.0.0.0 youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 googlevideo.com
+
 0.0.0.0 fubo.tv
 
 0.0.0.0 sling.com
